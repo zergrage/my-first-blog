@@ -16,3 +16,4 @@ class Post(models.Model):  # 클래스는 객체를 정의한다. 포스트 안 
 
     def __str__(self):
         return self.title
+
